@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 3.4375rem;
+  font-weight: bold;
+}
+
+/*VARIABLES START*/
+
+:root {
+  --main-color: #6498cc;
+}
+
+/*VARIABLES END*/
+
+.container {
+  display: grid;
+  place-items: center;
+}
